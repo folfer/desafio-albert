@@ -2,7 +2,7 @@
 </p>
 
 <p align="center">
-  :moneybag: Manage your posts. Project developed during challenge of albert | #TICTO
+  :moneybag: Manage your posts. Project developed during challenge of albert | #Albert
 </p>
 
 <div align="center">
