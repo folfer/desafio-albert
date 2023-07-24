@@ -13,7 +13,6 @@
 
 # 📌 Contents
 
-- [Screenshots](#camera-screenshot)
 - [Technologies](#rocket-technologies)
 - [How to Run](#computer-how-to-run)
 - [Issues](#bug-issues)
